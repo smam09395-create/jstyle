@@ -1,0 +1,6 @@
+{
+  "name": "J Style Men's Women's Salon",
+  "description": "Luxury unisex salon offering premium hair styling, beard grooming, hydrafacial skin treatments, and online appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
